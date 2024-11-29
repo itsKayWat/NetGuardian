@@ -1,0 +1,19 @@
+NetGuardian-Audit-Suite/
+├── Scripts/
+│   ├── Batch/
+│   │   ├── check_connection.bat
+│   │   ├── collect_user_logs.bat
+│   │   ├── protect_network.bat
+│   │   └── remove_portproxy.bat
+│   └── Python/
+│       ├── Fix Unusual Network Activity/
+│       │   └── Network Security Remediation.py
+│       ├── check_connections.py
+│       ├── network_monitor.py
+│       └── run_monitor.bat
+├── docs/
+│   ├── README.txt
+│   └── README.html
+├── requirements.txt
+├── requirements.py
+└── LICENSE
